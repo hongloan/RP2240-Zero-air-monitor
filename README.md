@@ -1,5 +1,7 @@
 # RP2240-Zero-air-monitor
 In this project, I used microcontroller to monitor the humidity and temperature of 2 different locations. The measured data is shown on SSD1306 oled screen.
+![Model](https://github.com/hongloan/RP2240-Zero-air-monitor/blob/main/image1-7.png)
+
 There are some libraries that we need to import
   
   ssd1306.py for the oled screen
