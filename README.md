@@ -1,5 +1,15 @@
 # RP2240-Zero-air-monitor
 
+## Version V3
+This is the final version with PCB, display, sensor and casing improvement. 
+
+I used RP2040-Zero micro-controller to gather data from  
+1. PMS5003ST particulate matter, formaldehyde, humidity and temperature sensor
+2. SGP30 air quality sensor (CO2eq and TVOC)
+The results are displayed on 2.2" LCD screen.
+
+There are also reserved slot for future expansion with extra sensors
+
 ## Version V2
 I replaced the SHT31 of adafruit by a cheaper version. I also added the air quality sensor SGP30. 
 
