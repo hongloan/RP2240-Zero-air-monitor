@@ -10,6 +10,8 @@ The results are displayed on 2.2" LCD screen.
 
 There are also reserved slot for future expansion with extra sensors
 
+![Model](https://github.com/hongloan/RP2240-Zero-air-monitor/blob/main/V3/thumbnail3.png)
+
 ## Version V2
 I replaced the SHT31 of adafruit by a cheaper version. I also added the air quality sensor SGP30. 
 
